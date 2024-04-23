@@ -1,22 +1,23 @@
-### Hi there 👋
-<p align="center">
-<img height="50%" width="auto" src =https://github-readme-stats.vercel.app/api?username=alien2fg&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true>
-<img height="50%" width="auto" src =(https://github-readme-streak-stats.herokuapp.com/?user=alien2fg&theme=great-gatsby&hide_border=false>
-<img src =https://github-readme-stats.vercel.app/api/top-langs/?username=alien2fg&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact>
-  <br>
-  <br>
-</p>
-<!--
-**alien2fg/alien2fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Filip
 
-Here are some ideas to get you started:
+ A passionate Embedded developer
+ 
+ 🌱 I’m currently learning **STM32 development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-171515?&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffa428?&logo=firebase&logoColor=white&fontColor=white)
+
+### :fire: My Stats :
+![alien2fg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alien2fg&theme=vue-dark&hide_border=true)
+![alien2fg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alien2fg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=alien2fg&color=green)
+
+### 🤝🏻 Connect with Me
+<a href="mailto:filipgnojek@gmail.com"><img src="https://img.shields.io/badge/filipgnojek@gmail.com-b23e2f?logo=gmail&logoColor=white"></a>
+<a href="http://www.linkedin.com/in/filip-gnojek"><img src="https://img.shields.io/badge/Filip Gnojek-blue?logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/filip.gnojek.3"><img src="https://img.shields.io/badge/Filip Gnojek-1877F2?&logo=facebook&logoColor=white"></a>
