@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+<p align="center">
+<img height="50%" width="auto" src =https://github-readme-stats.vercel.app/api?username=alien2fg&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true>
+<img height="50%" width="auto" src =(https://github-readme-streak-stats.herokuapp.com/?user=alien2fg&theme=great-gatsby&hide_border=false>
+<img src =https://github-readme-stats.vercel.app/api/top-langs/?username=alien2fg&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact>
+  <br>
+  <br>
+</p>
 <!--
 **alien2fg/alien2fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
