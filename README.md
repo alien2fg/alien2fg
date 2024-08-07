@@ -2,7 +2,7 @@
 
  A passionate Embedded developer
  
- 🌱 I’m currently learning **STM32 development**
+ 🌱 I’m currently learning **Java development**
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
