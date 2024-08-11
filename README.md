@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Filip
 
- A passionate Embedded developer
+ A passionate Software developer
  
  🌱 I’m currently learning **Java development**
 
