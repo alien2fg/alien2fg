@@ -2,7 +2,7 @@
 
  A passionate Software developer
  
- 🌱 I’m currently learning **Java development**
+ 🌱 I’m currently learning **STM32 development**
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-14354C?&logo=python&logoColor=white)
